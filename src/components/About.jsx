@@ -34,7 +34,7 @@ export default function About() {
                 target="_blank"
                 rel="noreferrer"
               >
-                LinkeDin
+                <h3>LinkeDin</h3>
               </a>
             </ul>
           </span>

@@ -12,3 +12,10 @@
 h3 {
   padding-bottom: 2rem;
 }
+
+h2 {
+  margin-top: 0%;
+  padding-bottom: 2rem;
+  text-decoration: none;
+  color: white;
+}

@@ -1,14 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
 
 .buscador {
+  font-family: "Kanit";
+  color: white;
+  padding: 3px;
+  width: 150px;
   border-radius: 5px;
   border: none;
-  color: white;
   margin-left: 35rem;
-  background: inherit;
   outline: none;
   position: absolute;
-  margin-top: 17%;
+  margin-top: 15%;
+  background-color: rgba(0, 0, 0, 0.541);
 }
 
 .btnBuscar {

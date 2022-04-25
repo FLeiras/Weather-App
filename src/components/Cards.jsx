@@ -6,6 +6,7 @@ export default function Cards({ cities, onClose }) {
   if (cities) {
     return (
       <div className="cards">
+        <div className="scll" />
         {cities.map((c) => (
           <Card
             key={c.id}

@@ -11,7 +11,6 @@
 .bkg {
   width: 100vw;
   height: 100vh;
-  backdrop-filter: blur(16px);
   background-color: #77777770;
 }
 
@@ -28,12 +27,7 @@
   margin-top: 4rem;
   box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.5);
   top: 0;
-  /* overflow: auto; */
-}
-
-.cuadro::-webkit-scrollbar {
-  width: 5px;
-  background-color: black;
+  overflow: auto;
 }
 
 .bnbda {

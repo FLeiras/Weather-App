@@ -16,14 +16,9 @@
   position: relative;
 }
 
-.scll {
-  width: 100%;
-}
-
 .scll::-webkit-scrollbar {
   position: absolute;
   color: black;
-  overflow: auto;
 }
 
 .infoMin {
