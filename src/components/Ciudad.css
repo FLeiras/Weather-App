@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+.container2 {
+  backdrop-filter: blur(16px);
+  color: #005f73;
+  margin-top: -50px;
+  padding: -50px;
+  font-size: xx-large;
+  font-family: "Kanit";
+}
+
+.back {
+  margin-top: 20px;
+  border: none;
+  color: white;
+}

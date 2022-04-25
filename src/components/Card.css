@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+.card {
+  background-image: url("../Img/fondo\ Card2.jpg");
+  background-repeat: no-repeat;
+  background-size: 40vw 280px;
+  align-items: center;
+  border-radius: 20px;
+  width: 50%;
+  height: 50%;
+  font-family: "Kanit";
+  color: white;
+  background-color: #caf0f800;
+  margin: 10% 30px 0 260px;
+  margin-top: -1%;
+  position: relative;
+}
+
+.scll {
+  width: 100%;
+}
+
+.scll::-webkit-scrollbar {
+  position: absolute;
+  color: black;
+  overflow: auto;
+}
+
+.infoMin {
+  margin: 0px 0px 0px -30px;
+  margin-top: -5%;
+  position: absolute;
+}
+
+.infoMax {
+  margin: 0px 0px 0px 100px;
+  margin-top: -5%;
+  position: absolute;
+}
+
+.iconoClima {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 30px;
+  margin-top: -5%;
+  margin-left: 67%;
+}
+
+#closeIcon {
+  border: none;
+  position: absolute;
+  top: 0px;
+  right: 50px;
+  border-radius: 20px;
+  background-color: white;
+}
+.btnInput {
+  border-radius: 10px;
+  border: none;
+  position: absolute;
+  margin-left: 25px;
+  margin-top: 60px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+}
+
+.masInfo {
+  margin-left: 330px;
+  margin-top: -5%;
+  margin-bottom: 12%;
+  position: relative;
+}
+
+.row {
+  display: flex;
+  margin-top: -10%;
+  margin-left: 20%;
+  text-align: justify;
+}

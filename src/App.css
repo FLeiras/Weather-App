@@ -1,0 +1,42 @@
+.app {
+  background-image: url("./Img/bkg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bkg {
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(16px);
+  background-color: #77777770;
+}
+
+.cuadro {
+  text-align: center;
+  background-image: url("./Img/bkg.jpg");
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  width: 80vw;
+  height: 80vh;
+  border-radius: 2rem;
+  margin-left: 9rem;
+  margin-top: 4rem;
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.5);
+  top: 0;
+  /* overflow: auto; */
+}
+
+.cuadro::-webkit-scrollbar {
+  width: 5px;
+  background-color: black;
+}
+
+.bnbda {
+  margin-top: 5rem;
+  color: black;
+}
